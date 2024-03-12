@@ -1,0 +1,102 @@
+#
+# --------------------------- 2023 ---------------------------
+#
+
+-  id: Santos2023a
+  text: "Santos JG, Grin EJ (2023). Capacidades Estatais: O Perfil Metodológico da Produção Empírica Nacional (2010-2023)"
+  year: 2023
+  type: "empirical"
+  authorship: "first"
+  status: "inprep"
+  preprint: "https://doi.org/10.1590/SciELOPreprints.7086"
+  datarepo: "https://osf.io/kywcs/"
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.1590/0034-761220220110"
+
+#
+# --------------------------- 2022 ---------------------------
+#
+
+-  id: Santos2022a
+  text: "Santos JG, Silva ALN, Melo CMO, Melo YM (2022). Intermunicipal cooperation in the National Environmental Policy: do state capacities matter?. Brazilian Journal of Public Administration, 56(6)."
+  year: 2022
+  type: "empirical"
+  authorship: "first"
+  status: "published"
+  preprint:
+  datarepo:
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.1590/0034-761220220110"
+
+
+-  id: Santos2022b
+  text: "Santos JG, Mota FPB (2022). Institutional Dimensions Associated With Government Data Openness: A Transnational Analysis. E-Legis, 15(38)."
+  year: 2022
+  type: "empirical"
+  authorship: "first"
+  status: "published"
+  preprint:
+  datarepo:
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.51206/elegis.v15i38.752"
+
+
+#
+# --------------------------- 2021 ---------------------------
+#
+
+- #id: Mathur2021a
+  #text: "Mathur MB & VanderWeele TJ (under revision). Meta-Regression Methods to Characterize Evidence Strength Using Meaningful-Effect Percentages Conditional on Study Characteristics."
+  #year: 2021
+  #type: "methods"
+  #authorship: "first"
+  #status: "inprep"
+  #preprint: "https://osf.io/bmtdq/"
+  #datarepo: "https://osf.io/gs7fp/"
+  #rpackagename:
+  #rpackagelink:
+  #webappname:
+  #webapplink:
+  #doi:
+
+#
+# --------------------------- 2020 ---------------------------
+#
+
+-  id: Santos2020A
+  text: "Santos JG, Mota FPB (2021). A transparência governamental em tempos de Covid-19: reflexões do quadro brasileiro. Revista Eletrônica Gestão e Sociedade, 14(39)."
+  year: 2020
+  type: "empirical"
+  authorship: "first"
+  status: "published"
+  preprint:
+  datarepo:
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.21171/ges.v14i39.3288"
+
+- #id: Mathur2020
+  #text: "Mathur MB & VanderWeele TJ (2020). Sensitivity analysis for unmeasured confounding in meta-analyses. Journal of the American Statistical Association, 115(529), 163-170."
+  #year: 2020
+  #type: "methods"
+  #authorship: "first"
+  #status: "published"
+  #preprint:
+  #datarepo: "https://osf.io/2r3gm/"
+  #rpackagename: "EValue"
+  #rpackagelink: "https://CRAN.R-project.org/package=EValue"
+  #webappname: "EValue Calculator"
+  #webapplink: "https://www.evalue-calculator.com/meta/"
+  #doi: "10.1080/01621459.2018.1529598"
+
